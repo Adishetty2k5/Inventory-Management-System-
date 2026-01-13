@@ -1,6 +1,7 @@
+# DBMS Project :
 # Inventory-Management-System
-# DBMS Project
-# TEAM 13 :
+
+# TEAM E2 :
 # Suresh Choudhary (01FE25BCS709)
 # Adishesh Bolishetti (01FE25BCS722)
 # Vinayak Gourannavar (01FE25BCS728)
