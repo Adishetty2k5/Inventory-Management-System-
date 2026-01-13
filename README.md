@@ -5,4 +5,5 @@
 # Suresh Choudhary (01FE25BCS709)
 # Adishesh Bolishetti (01FE25BCS722)
 # Vinayak Gourannavar (01FE25BCS728)
-# Gagan Chavan (01FE25BCS732)
+# Himanshu Nayak (01FE25BCS734)
+
